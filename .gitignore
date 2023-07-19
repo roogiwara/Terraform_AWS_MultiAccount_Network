@@ -1,0 +1,9 @@
+
+.terraform/modules/modules.json
+*.hcl
+*.backup
+*.tfstate
+*.exe
+*.ppk
+*.info
+*.pem
